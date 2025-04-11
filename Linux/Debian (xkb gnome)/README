@@ -1,1 +1,4 @@
 Replaces the Layout Sundeadkeys or "German (with Sun dead keys)" with basic + åÅ on üÜ 
+
+run command:
+setxkbmap de sundeadkeys
