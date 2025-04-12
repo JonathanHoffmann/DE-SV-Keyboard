@@ -2,3 +2,7 @@ Replaces the Layout Sundeadkeys or "German (with Sun dead keys)" with basic + å
 
 run command:
 setxkbmap de sundeadkeys
+only works until reboot.
+
+Add this line to a layout:
+key <AD11>	{ [ udiaeresis, Udiaeresis,            aring,   Aring ]	};
